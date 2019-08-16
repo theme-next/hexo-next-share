@@ -1,0 +1,46 @@
+likely:
+  enable: false
+  cdn:
+    js: //cdn.jsdelivr.net/npm/ilyabirman-likely@2/release/likely.min.js
+    css: //cdn.jsdelivr.net/npm/ilyabirman-likely@2/release/likely.min.css
+  look: normal # available values: normal, light, small, big
+  networks:
+    twitter: Tweet
+    facebook: Share
+    linkedin: Link
+    gplus: Plus
+    vkontakte: Share
+    odnoklassniki: Class
+    telegram: Send
+    whatsapp: Send
+    pinterest: Pin
+
+needmoreshare:
+  enable: false
+  cdn:
+    js: //cdn.jsdelivr.net/gh/theme-next/theme-next-needmoreshare2@1/needsharebutton.min.js
+    css: //cdn.jsdelivr.net/gh/theme-next/theme-next-needmoreshare2@1/needsharebutton.min.css
+  postbottom:
+    enable: true
+    options:
+      iconStyle: box
+      boxForm: horizontal
+      position: bottomCenter
+      networks: Weibo,Wechat,Douban,QQZone,Twitter,Facebook
+  float:
+    enable: false
+    options:
+      iconStyle: box
+      boxForm: horizontal
+      position: middleRight
+      networks: Weibo,Wechat,Douban,QQZone,Twitter,Facebook
+
+sharejs:
+  enable: false
+  cdn:
+    js: //cdn.jsdelivr.net/npm/social-share.js@1/dist/js/social-share.min.js
+    css: //cdn.jsdelivr.net/npm/social-share.js@1.0.16/dist/css/share.min.css
+  networks: weibo,qq,wechat,tencent,douban,qzone,linkedin,diandian,facebook,twitter,google
+  wechat_qrcode:
+    title: share.title
+    prompt: share.prompt
