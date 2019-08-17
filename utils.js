@@ -9,5 +9,5 @@ module.exports = function(hexo, pluginDir) {
       hexo.config[key] = Object.assign(defaultConfig[key], hexo.theme.config[key], hexo.config[key]);
       return hexo.config[key];
     }
-  }
-}
+  };
+};

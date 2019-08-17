@@ -4,7 +4,7 @@
   "description": "Content Sharing Services for NexT.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "eslint *.js lib/**/*.js"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,9 @@
   "homepage": "https://github.com/theme-next/hexo-next-share#readme",
   "dependencies": {
     "js-yaml": "^3.13.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "eslint-config-theme-next": "^1.1.1"
   }
 }
