@@ -1,8 +1,8 @@
 # Hexo NexT Share
 Content Sharing Services for NexT.
 
-[![Theme](https://img.shields.io/badge/NexT-v7.3.0+-blue.svg)](https://theme-next.org)
-![GitHub release](https://img.shields.io/github/release/theme-next/hexo-next-share.svg)
+![Theme Version](https://img.shields.io/badge/NexT-v7.3.0+-blue.svg?style=flat-square)
+![Package Version](https://img.shields.io/github/package-json/v/theme-next/hexo-next-share?style=flat-square)
 
 ## Install
 ```bash
