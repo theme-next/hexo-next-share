@@ -6,13 +6,13 @@ Content Sharing Services for NexT.
 
 ## Install
 ```bash
-npm install --save theme-next/hexo-next-share#last-release
+npm install theme-next/hexo-next-share
 ```
 
 ## Configure
 You can config those in both **hexo** or **theme** `_config.yml`.
 
-#### Likely 
+#### Likely
 
 Edit the configurations in `likely` section in the theme config file as following:
 
