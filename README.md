@@ -1,15 +1,18 @@
 # Hexo NexT Share
-Content Sharing Services for NexT.
 
 ![Theme Version](https://img.shields.io/badge/NexT-v7.3.0+-blue.svg?style=flat-square)
 ![Package Version](https://img.shields.io/github/package-json/v/theme-next/hexo-next-share?style=flat-square)
 
+Content Sharing Services for NexT.
+
 ## Install
+
 ```bash
 npm install theme-next/hexo-next-share
 ```
 
 ## Configure
+
 You can config those in both **hexo** or **theme** `_config.yml`.
 
 #### Likely
