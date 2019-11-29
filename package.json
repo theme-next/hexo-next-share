@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/theme-next/hexo-next-share#readme",
   "dependencies": {
-    "js-yaml": "^3.13.1"
+    "next-util": "github:theme-next/next-util"
   },
   "devDependencies": {
     "eslint": "^6.1.0",

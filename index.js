@@ -2,7 +2,8 @@
 
 'use strict';
 
-const utils = require('./utils')(hexo, __dirname);
+const Util = require('next-util');
+const utils = new Util(hexo, __dirname);
 
 hexo.extend.filter.register('theme_inject', injects => {
   ['likely', 'needmoreshare', 'sharejs'].forEach(item => {
