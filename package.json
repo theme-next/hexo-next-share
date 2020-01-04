@@ -21,10 +21,10 @@
   },
   "homepage": "https://github.com/theme-next/hexo-next-share#readme",
   "dependencies": {
-    "next-util": "github:theme-next/next-util"
+    "next-util": "^1.0.0"
   },
   "devDependencies": {
-    "eslint": "^6.7.1",
+    "eslint": "^6.8.0",
     "eslint-config-theme-next": "^1.1.3"
   }
 }
