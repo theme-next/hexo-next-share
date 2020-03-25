@@ -1,6 +1,6 @@
 {
   "name": "hexo-next-share",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Content Sharing Services for NexT.",
   "main": "index.js",
   "scripts": {
@@ -21,10 +21,10 @@
   },
   "homepage": "https://github.com/theme-next/hexo-next-share#readme",
   "dependencies": {
-    "next-util": "^1.0.0"
+    "next-util": "^1.0.1"
   },
   "devDependencies": {
     "eslint": "^6.8.0",
-    "eslint-config-theme-next": "^1.1.3"
+    "eslint-config-theme-next": "^1.1.4"
   }
 }
