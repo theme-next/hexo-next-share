@@ -86,7 +86,7 @@ sharejs:
   enable: true
   cdn:
     js: //cdn.jsdelivr.net/npm/social-share.js@1/dist/js/social-share.min.js
-    css: //cdn.jsdelivr.net/npm/social-share.js@1.0.16/dist/js/social-share.min.css
+    css: //cdn.jsdelivr.net/npm/social-share.js@1.1.0/dist/js/social-share.min.css
   networks: weibo,qq,wechat,tencent,douban,qzone,linkedin,diandian,facebook,twitter,google
   wechat_qrcode:
     title: share.title
