@@ -1,6 +1,6 @@
 {
   "name": "hexo-next-share",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Content Sharing Services for NexT.",
   "main": "index.js",
   "scripts": {
